@@ -1,0 +1,21 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.navItem {
+  background-color: lightcyan;
+}
+
+.navItem:hover {
+  background-color: lightgray;
+}
+
+.nav {
+  background-color: whitesmoke;
+}
+
+.nav:hover {
+  background-color: lightgray;
+}
